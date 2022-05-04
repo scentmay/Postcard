@@ -1,0 +1,50 @@
+body {
+	background: black;
+	font-family: Source Code Pro;
+}
+
+.postcard {
+	background: white;
+	width: 400px;
+	height: 280px;
+	margin: auto;
+}
+
+.postcard-header {
+	display: flex;
+	padding: 5px;
+}
+
+h1 {
+	width: 500px;
+	margin: auto;
+}
+
+.postcard-body {
+	display: flex;
+	padding: 5px;
+}
+
+.body-left {
+	font-size: 14px;
+	padding: auto;
+}
+
+.body-right {
+	font-size: 13px;
+	padding: auto;
+}
+
+.button-footer {
+	background-color: darkgrey;
+	padding: 6px;
+}
+
+.inputs {
+	border: none;
+	border-bottom: 2px solid gray;
+}
+
+.postcard-footer {
+	text-align: center;
+}
